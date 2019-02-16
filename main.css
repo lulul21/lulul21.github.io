@@ -31,11 +31,13 @@ body {
     padding: 0;
 }
 
-@font-face {
-  font-family: bnmachine;
-  src: bnmachine.ttf;
-}
+@font-face { 
+ font-family: "BN machine";
+ src: url(../fonts/bnmachine.ttf);
+ src: local('bnmachine'),
+ url(bnmachine.ttf) format('truetype'); 
+} 
 
-.topnav {
-  font-family: bnmachine;
+a { 
+ font-family:"BN machine",Verdana,Arial; 
 }
