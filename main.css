@@ -54,3 +54,7 @@ src: url(../fonts/Bree.otf);
 a { 
  font-family:Bree; 
 }
+
+body {
+  background-color: #e2edff;
+}
