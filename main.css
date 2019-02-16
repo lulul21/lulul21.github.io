@@ -3,6 +3,8 @@
   background-color: #bedde0;
   overflow: hidden;
   padding: 0;
+  position: -webkit-sticky; /* Safari */
+  position: sticky;
 }
 
 /* Style the links inside the navigation bar */
