@@ -28,3 +28,12 @@
 body {
     padding: 0;
 }
+
+@font-face {
+  font-family: bnmachine;
+  src: bnmachine.ttf;
+}
+
+.topnav {
+  font-family: bnmachine;
+}
