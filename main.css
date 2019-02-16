@@ -60,14 +60,14 @@ body {
   background-color: #e2edff;
 }
 
-p.Bree {
+.Bree {
   font-family:Bree;
 }
 
-p.right {
+.right {
   float: right;
 }
 
-p.white {
+.white {
   color: white;
 }
