@@ -33,14 +33,14 @@ body {
 
 @font-face { 
 font-family: Aller;
-src: url(fonts/Allere.ttf); 
+src: url(fonts/Aller.ttf); 
 }
 
 @font-face { 
 font-family: Bree;
-src: url(fonts/Bree.otf); 
+src: url(../fonts/Bree.otf); 
 }
 
 a { 
- font-family:Bree,Verdana,Arial; 
+ font-family:Bree; 
 }
