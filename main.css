@@ -32,10 +32,15 @@ body {
 }
 
 @font-face { 
-font-family: "BN machine";
-src: url(bnmachine.ttf); 
+font-family: Aller;
+src: url(fonts/Allere.ttf); 
+}
+
+@font-face { 
+font-family: Bree;
+src: url(Bree.otf); 
 }
 
 a { 
- font-family:"BN machine",Verdana,Arial; 
+ font-family:Bree,Verdana,Arial; 
 }
