@@ -44,7 +44,7 @@
 
 @font-face { 
 font-family: Aller;
-src: url(fonts/Aller.ttf); 
+src: url(../fonts/Aller.ttf); 
 }
 
 @font-face { 
@@ -62,5 +62,9 @@ body {
 
 .Bree {
   font-family:Bree;
+}
+
+.main p {
+  font-family:Aller;
 }
 
