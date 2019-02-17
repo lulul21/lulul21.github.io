@@ -1,9 +1,3 @@
-* { 
-  margin: 0; 
-  padding: 0; 
-  font-family: Aller;
-}
-
 
 /* The navigation bar */
 .navbar {
@@ -13,6 +7,8 @@
   top: 0; /* Position the navbar at the top of the page */
   left: 0;
   width: 100%; /* Full width */
+  margin: 0; 
+  padding: 0; 
 }
 
 /* Links inside the navbar */
